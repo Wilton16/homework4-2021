@@ -55,7 +55,7 @@ p{
 
 a{
   font-size: 16px;
-  color: #C12258; /* or #B21F50, or #B92751 depending on WAVE*/
+  color: #B21F50; /* or #C12258, or #B92751 depending on WAVE*/ /*switched them for wave*/
   text-decoration-style: wavy;
   /*Req 4*/
 }
