@@ -71,7 +71,9 @@ a{
 /*Req 6a*/
 td{
   text-align: center;
-  border-top: 2px;
+  /*border-top: 2px;*/
+  border: 2px 0px 0px 0px;
+  border-style: solid;
   padding: 10px;
   
 }
